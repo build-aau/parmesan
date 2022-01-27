@@ -1,0 +1,1558 @@
+[
+  {
+    "Node": {
+      "Construction": {
+        "id": "61142188-4157-4c9d-9d31-387b38b448f4",
+        "name": {
+          "English": "Line foundation, frost free 1100/400 mm (h/w), 1-5 floors",
+          "Danish": "Linjefundament, frostfri 1100/400 mm (h/b), 1-5 etager"
+        },
+        "unit": "M",
+        "source": "User",
+        "comment": "Linjefundament består af 1100 mm dybt betonfundament (b=400, C35/45) med armeringsstål (60 kg/m3 beton). 200 mm EPS-isolering på ydersiden (lambda 35, 25 kg/m3) samt 1 mm sokkelpuds med kalcementmørtel (2 kg/m2)",
+        "locked": true,
+        "order": {}
+      }
+    }
+  },
+  {
+    "Node": {
+      "Construction": {
+        "id": "d55c8bde-bfd8-4c44-a3a5-fb43c3f4de6f",
+        "name": {
+          "English": "Floor, parquet, floating",
+          "Danish": "Gulv, parket, svømmende"
+        },
+        "unit": "M2",
+        "source": "User",
+        "comment": "Svømmende parketgulv består af 20 mm lamelparket (klik-løsning, eg, massive stave), 3 mm trinlydsisolering i EPS-måtter, parketlim, cement, 40 mm afretningslag af cementbaseret flydemørtel, 3 mm trinlydsisolering i EPS-måtter ",
+        "locked": true,
+        "order": {}
+      }
+    }
+  },
+  {
+    "Node": {
+      "Construction": {
+        "id": "f89833f9-0ae4-40b8-bfb1-69a6283926ee",
+        "name": {
+          "English": "Wall surface, painting, acrylic paint, full plastering",
+          "Danish": "Vægside, malerbehandling, akrylmaling, fuldspartling"
+        },
+        "unit": "M2",
+        "source": "User",
+        "comment": "Malerbehandling består af 2 lag akrylmaling ovenpå forankringsgrunder og cementbaseret spartelmasse (5mm)",
+        "locked": true,
+        "order": {}
+      }
+    }
+  },
+  {
+    "Node": {
+      "Construction": {
+        "id": "9e8db285-11a4-413b-b9f6-2ef993b5f265",
+        "name": {
+          "English": "Wall surface, painting, acrylic paint, full plastering",
+          "Danish": "Vægside, malerbehandling, akrylmaling, fuldspartling"
+        },
+        "unit": "M2",
+        "source": "User",
+        "comment": "Malerbehandling består af 2 lag akrylmaling ovenpå forankringsgrunder og cementbaseret spartelmasse (5mm)",
+        "locked": true,
+        "order": {}
+      }
+    }
+  },
+  {
+    "Node": {
+      "Construction": {
+        "id": "0dec233e-909b-4acf-a113-b97734f30ce2",
+        "name": {
+          "English": "Wall surface, painting, acrylic paint, full plastering",
+          "Danish": "Vægside, malerbehandling, akrylmaling, fuldspartling"
+        },
+        "unit": "M2",
+        "source": "User",
+        "comment": "Malerbehandling består af 2 lag akrylmaling ovenpå forankringsgrunder og cementbaseret spartelmasse (5mm)",
+        "locked": true,
+        "order": {}
+      }
+    }
+  },
+  {
+    "Node": {
+      "Construction": {
+        "id": "540a2869-3d75-4f98-81e4-ef80e0472843",
+        "name": {
+          "Danish": "Midterlag, beton, porebetonblok 100mm, mineraluld",
+          "English": "Middle layer, concrete, aerated concrete 100 mm, mineral wool"
+        },
+        "unit": "M2",
+        "source": "User",
+        "comment": "Porebetonblok består af 100 mm porebetonblok (12,4 kg) med bloklim og 300 mm mineraluldsisoleringsmåtte (lambda 34, 50 kg/m3)",
+        "locked": true,
+        "order": {}
+      }
+    }
+  },
+  {
+    "Node": {
+      "Construction": {
+        "id": "87b1e2bc-6d1f-49cd-a3f6-cb1efa0c33db",
+        "name": {
+          "English": "Exterior wall surface, bricks, front wall",
+          "Danish": "Yderside, Teglsten, formur"
+        },
+        "unit": "M2",
+        "source": "User",
+        "comment": "Formur består af 108 mm facademursten og funktionsmørtel (FM 5)",
+        "locked": true,
+        "order": {}
+      }
+    }
+  },
+  {
+    "Node": {
+      "Construction": {
+        "id": "c4f48103-9bbe-441f-a502-6c8acceb49b9",
+        "name": {
+          "English": "Middle layer, aerated concrete, 100 mm",
+          "Danish": "Midterdel, porebeton, 100 mm"
+        },
+        "unit": "M2",
+        "source": "User",
+        "comment": "Porebeton består af 100 mm porebetonblok samt bloklim",
+        "locked": true,
+        "order": {}
+      }
+    }
+  },
+  {
+    "Node": {
+      "Construction": {
+        "id": "b388a8fa-01c8-4e2b-a140-f16e7b5bb9b5",
+        "name": {
+          "Danish": "Terrændæk, beton, 120 mm ",
+          "English": "Ground slab, concrete, 120 mm"
+        },
+        "unit": "M2",
+        "source": "User",
+        "comment": "Beton terrændæk består af 120 mm pladsstøbt beton (C25/30) og armeringsstål (30 kg/m3)",
+        "locked": true,
+        "order": {}
+      }
+    }
+  },
+  {
+    "Node": {
+      "Construction": {
+        "id": "ab762106-dcfc-4c30-b183-e774b3c401d6",
+        "name": {
+          "Danish": "Underlag, isolering EPS 350 mm og singels",
+          "English": "Substrate, insulation EPS 350 mm and singles"
+        },
+        "unit": "M2",
+        "source": "User",
+        "comment": "Isolering mod terræn består af 0,2 mm fugt- og radonspærre, 350 mm EPS isolering (lambda 35) og 150 mm stabilgrus",
+        "locked": true,
+        "order": {}
+      }
+    }
+  },
+  {
+    "Node": {
+      "Construction": {
+        "id": "adb0b26d-8139-461f-857c-4c09935e05b3",
+        "name": {
+          "Danish": "Tagbelægning, tegl",
+          "English": "Roofing, bricks"
+        },
+        "unit": "M2",
+        "source": "User",
+        "comment": "Tegl består af tagsten på lægter (38/73 mm pr 375 mm) og trykimprægnerede afstandslister (25/45 mm pr 500 mm)",
+        "locked": true,
+        "order": {}
+      }
+    }
+  },
+  {
+    "Node": {
+      "Construction": {
+        "id": "efaace55-eeb2-4074-bb92-9fb553da0da6",
+        "name": {
+          "English": "Middle layer, lattice rafters, mineral wool and cellulose insulation",
+          "Danish": "Midterlag, gitterspær, mineraluld og papirisolering"
+        },
+        "unit": "M2",
+        "source": "User",
+        "comment": "25 gr. hældning, 8,5 m spændvidde, 1m c/c afstand",
+        "locked": true,
+        "order": {}
+      }
+    }
+  },
+  {
+    "Node": {
+      "Construction": {
+        "id": "65657d64-b71d-4d66-9dbc-16c68af82050",
+        "name": {
+          "English": "Ceiling, plasterboard on wooden battens ",
+          "Danish": "Loft, gipsplader på trælægter"
+        },
+        "unit": "M2",
+        "source": "User",
+        "comment": "Gipslader på trælægter består af lægter (28/45 mm) og forskalling (22/95 mm), 45 mm mineraluld, 2 stk 13 mm gipsplader, 5 mm cementbaseret spartelmasse og 2 lag akrylmaling med forankringsgrunder",
+        "locked": true,
+        "order": {}
+      }
+    }
+  },
+  {
+    "Node": {
+      "Construction": {
+        "id": "f7db75b1-81e0-4dbe-8525-d89a115b817a",
+        "name": {
+          "Danish": "Karm, vinduer, træ-/aluminium",
+          "English": "Frame, windows, timber/aluminum"
+        },
+        "unit": "M2",
+        "source": "User",
+        "comment": "Vindueskarm i træ/alu består af karm (2,87 m) og ramme (2,76 m) i malet træ og med forkanter i aluminium,  samt tætningsliste i EPDM (5,8 m)",
+        "locked": true,
+        "order": {}
+      }
+    }
+  },
+  {
+    "Node": {
+      "Construction": {
+        "id": "ba600efd-d05f-420d-b93e-0145b21753d5",
+        "name": {
+          "English": "Window pane, 2-layer energy pane",
+          "Danish": "Rude, 2-lags energirude (Klon)"
+        },
+        "unit": "M2",
+        "source": "User",
+        "comment": "2-lags energirude består af energirude 2x4 mm.",
+        "locked": true,
+        "order": {}
+      }
+    }
+  },
+  {
+    "Node": {
+      "Construction": {
+        "id": "34d92aee-dfc8-4aba-9918-76faf6095543",
+        "name": {
+          "English": "Window pane, 2-layer energy pane",
+          "Danish": "Rude, 2-lags energirude"
+        },
+        "unit": "M2",
+        "source": "User",
+        "comment": "2-lags energirude består af energirude 2x4 mm.",
+        "locked": true,
+        "order": {}
+      }
+    }
+  },
+  {
+    "Node": {
+      "Construction": {
+        "id": "394c0299-5d3f-4213-a50c-5d636787d1fd",
+        "name": {
+          "English": "Door, interior",
+          "Danish": "Dør, indvendig"
+        },
+        "unit": "Pcs",
+        "source": "User",
+        "comment": "",
+        "locked": true,
+        "order": {}
+      }
+    }
+  },
+  {
+    "Node": {
+      "Construction": {
+        "id": "d48a1c21-4a28-41d9-ad51-1c1af05a123b",
+        "name": {
+          "Danish": "Dør, indvendig, glasdør",
+          "English": "Door, interior, glass door"
+        },
+        "unit": "Pcs",
+        "source": "User",
+        "comment": "1 stk. formpresset fyldningsdør med glaskasette, karmydermål 886/2089mm",
+        "locked": true,
+        "order": {}
+      }
+    }
+  },
+  {
+    "Node": {
+      "Construction": {
+        "id": "6598ba05-7e45-4eba-8d4d-7d74af2399f9",
+        "name": {
+          "Danish": "Varmepumpe 10 kW, enfamiliehus",
+          "English": "Heat pump 10 kW, single-family house"
+        },
+        "unit": "Pcs",
+        "source": "User",
+        "comment": "",
+        "locked": true,
+        "order": {}
+      }
+    }
+  },
+  {
+    "Node": {
+      "Construction": {
+        "id": "9c77e4bd-2dc1-45fe-975a-0660312e87df",
+        "name": {
+          "English": "Geothermal pipes",
+          "Danish": "Jordvarmeslanger"
+        },
+        "unit": "Pcs",
+        "source": "User",
+        "comment": "",
+        "locked": true,
+        "order": {}
+      }
+    }
+  },
+  {
+    "Node": {
+      "Construction": {
+        "id": "f7b0aaa2-7f79-4229-b29f-21af4d451cc3",
+        "name": {
+          "English": "Pressure pipes",
+          "Danish": "Press rør"
+        },
+        "unit": "M",
+        "source": "User",
+        "comment": "Press rør består af rustfaste stålrør. Mængden er regnet ud fra Ø22 mm, t=1,5 mm",
+        "locked": true,
+        "order": {}
+      }
+    }
+  },
+  {
+    "Node": {
+      "Construction": {
+        "id": "1b795991-0dde-4853-9415-fa9bd1a922d5",
+        "name": {
+          "English": "Floor heating pipes, PEX, 100 mm disance",
+          "Danish": "Gulvvarmerør, PEX, 100 mm afstand "
+        },
+        "unit": "M2",
+        "source": "User",
+        "comment": "",
+        "locked": true,
+        "order": {}
+      }
+    }
+  },
+  {
+    "Node": {
+      "Construction": {
+        "id": "a4bbdefc-f84f-4f58-9a04-9c3f7256977c",
+        "name": {
+          "English": "Ventilation unit 150 m3/h, single-family house",
+          "Danish": "Ventilationsagregat 150 m3/h, enfamiliehus"
+        },
+        "unit": "Pcs",
+        "source": "User",
+        "comment": "",
+        "locked": true,
+        "order": {}
+      }
+    }
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "6bd55174-3750-42c0-a5b5-431ece87dd18",
+          "amount": 0.44,
+          "unit": "M3",
+          "lifespan": 120,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "61142188-4157-4c9d-9d31-387b38b448f4",
+      "3e4d4270-776d-5d24-83e8-90e4fbba74dc"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "8a44ab13-5405-4f07-8823-e5f2815b8065",
+          "amount": 11.0,
+          "unit": "KG",
+          "lifespan": 120,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "61142188-4157-4c9d-9d31-387b38b448f4",
+      "b3c6e51a-db0c-52e5-a0f1-1d416dbf5c33"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "58834746-9f8d-4b4c-89f9-f72baa1dc2ca",
+          "amount": 0.22,
+          "unit": "M3",
+          "lifespan": 50,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "61142188-4157-4c9d-9d31-387b38b448f4",
+      "0ace3898-8fde-5f73-9a05-9969819f9dd7"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "774a84b5-ccd7-4a84-992b-f3ccbb7f39de",
+          "amount": 0.8,
+          "unit": "KG",
+          "lifespan": 80,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "61142188-4157-4c9d-9d31-387b38b448f4",
+      "9a03a415-4dba-5d22-8f20-640c4837c9d3"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "9d049048-ac8f-44fd-8bb6-faa61d9c577d",
+          "amount": 96.0,
+          "unit": "KG",
+          "lifespan": 80,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "d55c8bde-bfd8-4c44-a3a5-fb43c3f4de6f",
+      "e376df1c-29c6-5928-8bcc-2bfdd08bd63e"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "1c36c398-6671-442a-b608-5642337a2a4b",
+          "amount": 0.909,
+          "unit": "M2",
+          "lifespan": 80,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "d55c8bde-bfd8-4c44-a3a5-fb43c3f4de6f",
+      "d6324b86-b758-5964-b2c1-0ac97647d7ed"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "51f4c087-a2e3-45fb-ae49-e880ec75bf9b",
+          "amount": 0.006,
+          "unit": "M3",
+          "lifespan": 80,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "d55c8bde-bfd8-4c44-a3a5-fb43c3f4de6f",
+      "0ace3898-8fde-5f73-9a05-9969819f9dd7"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "070aa36c-6172-4a45-8366-277cb09b1832",
+          "amount": 0.05,
+          "unit": "KG",
+          "lifespan": 80,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "d55c8bde-bfd8-4c44-a3a5-fb43c3f4de6f",
+      "5eda9557-f3c9-53df-a789-fa7814f516e1"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "f0aff991-3c49-4ccc-99b3-2a0565ff1eaf",
+          "amount": 0.19,
+          "unit": "KG",
+          "lifespan": 15,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "f89833f9-0ae4-40b8-bfb1-69a6283926ee",
+      "c55132d9-697e-5b62-a687-d8dffa6a9c31"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "bd6e2c68-5745-4c09-898e-e24c157fd044",
+          "amount": 0.38,
+          "unit": "KG",
+          "lifespan": 15,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "f89833f9-0ae4-40b8-bfb1-69a6283926ee",
+      "91b029e2-8286-52f7-a895-e607be6d1769"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "41b97aa2-9385-40b8-93e1-524a4e6dcf44",
+          "amount": 8.0,
+          "unit": "KG",
+          "lifespan": 80,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "f89833f9-0ae4-40b8-bfb1-69a6283926ee",
+      "c496d531-3138-505a-b701-65081993a830"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "3bc3a127-2fa8-4bea-be19-5fe228194ba1",
+          "amount": 0.19,
+          "unit": "KG",
+          "lifespan": 15,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "9e8db285-11a4-413b-b9f6-2ef993b5f265",
+      "c55132d9-697e-5b62-a687-d8dffa6a9c31"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "7e594af9-8c7d-4721-928a-7acf164d3648",
+          "amount": 0.38,
+          "unit": "KG",
+          "lifespan": 15,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "9e8db285-11a4-413b-b9f6-2ef993b5f265",
+      "91b029e2-8286-52f7-a895-e607be6d1769"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "f7fb5c58-cd31-494b-a1f8-9b0389fada32",
+          "amount": 8.0,
+          "unit": "KG",
+          "lifespan": 80,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "9e8db285-11a4-413b-b9f6-2ef993b5f265",
+      "c496d531-3138-505a-b701-65081993a830"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "1cc35789-6d62-42f4-bd92-5a1f9c533081",
+          "amount": 0.19,
+          "unit": "KG",
+          "lifespan": 15,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "0dec233e-909b-4acf-a113-b97734f30ce2",
+      "c55132d9-697e-5b62-a687-d8dffa6a9c31"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "050dc835-0b88-42d9-a703-4e72e8e763fb",
+          "amount": 0.38,
+          "unit": "KG",
+          "lifespan": 15,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "0dec233e-909b-4acf-a113-b97734f30ce2",
+      "91b029e2-8286-52f7-a895-e607be6d1769"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "e3b4a6ee-da85-40e5-9765-740f0beebf6c",
+          "amount": 8.0,
+          "unit": "KG",
+          "lifespan": 80,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "0dec233e-909b-4acf-a113-b97734f30ce2",
+      "c496d531-3138-505a-b701-65081993a830"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "fd06db4d-1d60-4efc-a10c-f6b241d642fe",
+          "amount": 0.1,
+          "unit": "M3",
+          "lifespan": 80,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "540a2869-3d75-4f98-81e4-ef80e0472843",
+      "d68a5087-39c5-5be5-89f0-4e9fff95dc8c"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "5ae8e903-914a-42e9-b3a4-72487c4c950e",
+          "amount": 0.3,
+          "unit": "M3",
+          "lifespan": 80,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "540a2869-3d75-4f98-81e4-ef80e0472843",
+      "e01a23c2-da7a-50e0-ae3c-3ce13abfe66c"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "44b9a18f-b4cb-43eb-a031-33801210301d",
+          "amount": 0.05,
+          "unit": "KG",
+          "lifespan": 120,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "540a2869-3d75-4f98-81e4-ef80e0472843",
+      "5eda9557-f3c9-53df-a789-fa7814f516e1"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "a5a3495d-3422-4753-98c5-479b07b72b40",
+          "amount": 4.8,
+          "unit": "KG",
+          "lifespan": 80,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "540a2869-3d75-4f98-81e4-ef80e0472843",
+      "35e71379-ee8b-569b-a2c0-2f8596c0631b"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "3af48b3b-35db-42ec-b726-e292dbe7c599",
+          "amount": 0.108,
+          "unit": "M3",
+          "lifespan": 80,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "87b1e2bc-6d1f-49cd-a3f6-cb1efa0c33db",
+      "9ef81ae5-cc9c-5355-ab41-4d67bc093e00"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "a785fbaf-71a3-4382-89e3-9461cadc5d16",
+          "amount": 12.096,
+          "unit": "KG",
+          "lifespan": 80,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "87b1e2bc-6d1f-49cd-a3f6-cb1efa0c33db",
+      "35e71379-ee8b-569b-a2c0-2f8596c0631b"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "9db74f4e-49c5-416b-94ee-0563a7c2408a",
+          "amount": 57.5,
+          "unit": "KG",
+          "lifespan": 100,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "c4f48103-9bbe-441f-a502-6c8acceb49b9",
+      "d68a5087-39c5-5be5-89f0-4e9fff95dc8c"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "254c7b07-7a05-4e7b-902e-9dbd9c9e1688",
+          "amount": 4.8,
+          "unit": "KG",
+          "lifespan": 100,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "c4f48103-9bbe-441f-a502-6c8acceb49b9",
+      "c496d531-3138-505a-b701-65081993a830"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "d0007872-d668-4fcd-bc0e-5fcd6f5cdff7",
+          "amount": 0.12,
+          "unit": "M3",
+          "lifespan": 100,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "b388a8fa-01c8-4e2b-a140-f16e7b5bb9b5",
+      "143d86f7-ff42-5dc1-b4dc-045467dc13e5"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "aee40c51-887f-415c-a36f-fd82811091c9",
+          "amount": 3.6,
+          "unit": "KG",
+          "lifespan": 100,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "b388a8fa-01c8-4e2b-a140-f16e7b5bb9b5",
+      "b3c6e51a-db0c-52e5-a0f1-1d416dbf5c33"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "0c8b023f-e2e3-4c68-8ec9-faa66c29b534",
+          "amount": 0.2,
+          "unit": "KG",
+          "lifespan": 60,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "ab762106-dcfc-4c30-b183-e774b3c401d6",
+      "e404aab3-95b9-5cf1-819c-6812b9f536eb"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "0d581d3a-4474-46bb-beb0-7dea97ddc628",
+          "amount": 0.35,
+          "unit": "M3",
+          "lifespan": 60,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "ab762106-dcfc-4c30-b183-e774b3c401d6",
+      "5238954e-2087-5df4-a772-19ee57531d64"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "ff29e6f3-05f2-42bc-ac53-8fe02d84936a",
+          "amount": 277.5,
+          "unit": "KG",
+          "lifespan": 100,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "ab762106-dcfc-4c30-b183-e774b3c401d6",
+      "1cf0bed4-b3d8-537b-8656-e5d1fecc0544"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "d80c5542-688f-470c-ba45-64d1d6c485c4",
+          "amount": 1.0,
+          "unit": "M2",
+          "lifespan": 60,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "adb0b26d-8139-461f-857c-4c09935e05b3",
+      "7bb18e30-278f-5109-80e4-f7d244e8694c"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "9b7ea555-992f-4b4f-ac76-566d39167881",
+          "amount": 0.0096473,
+          "unit": "M3",
+          "lifespan": 120,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "adb0b26d-8139-461f-857c-4c09935e05b3",
+      "742994ab-669c-532d-95c3-935174e5b867"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "217314b7-2f36-4d22-8ce6-a34f4af6df1f",
+          "amount": 0.1,
+          "unit": "KG",
+          "lifespan": 120,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "adb0b26d-8139-461f-857c-4c09935e05b3",
+      "5eda9557-f3c9-53df-a789-fa7814f516e1"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "72559231-9396-4725-9046-58e157cdb950",
+          "amount": 0.0011,
+          "unit": "M3",
+          "lifespan": 120,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "efaace55-eeb2-4074-bb92-9fb553da0da6",
+      "742994ab-669c-532d-95c3-935174e5b867"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "ab4fb86f-cae1-431e-92ea-a939160f33e6",
+          "amount": 0.0705,
+          "unit": "M3",
+          "lifespan": 50,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "efaace55-eeb2-4074-bb92-9fb553da0da6",
+      "d46da4f1-8ceb-5c1e-9368-958bf9ad844f"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "7c6eec1e-4ee2-4ea6-9f57-9f5e971dd8ea",
+          "amount": 0.1,
+          "unit": "KG",
+          "lifespan": 80,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "efaace55-eeb2-4074-bb92-9fb553da0da6",
+      "5eda9557-f3c9-53df-a789-fa7814f516e1"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "c4ce28f3-0f4c-466e-b89d-ac07bd1b6ba0",
+          "amount": 0.3107,
+          "unit": "M3",
+          "lifespan": 50,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "efaace55-eeb2-4074-bb92-9fb553da0da6",
+      "3c51bacb-27b4-54ae-8a9f-1cd8ff670b34"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "2a8d4e16-7ec2-4b72-9965-88adc9a4e84c",
+          "amount": 0.2,
+          "unit": "KG",
+          "lifespan": 60,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "efaace55-eeb2-4074-bb92-9fb553da0da6",
+      "e404aab3-95b9-5cf1-819c-6812b9f536eb"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "98d0664d-a614-4845-b538-972ade873f30",
+          "amount": 2.0,
+          "unit": "M2",
+          "lifespan": 60,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "65657d64-b71d-4d66-9dbc-16c68af82050",
+      "e9abdab3-a5a1-56bf-8052-085f963d06ad"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "87796bce-388f-469e-bb79-3702f1b1ce40",
+          "amount": 0.38,
+          "unit": "KG",
+          "lifespan": 15,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "65657d64-b71d-4d66-9dbc-16c68af82050",
+      "91b029e2-8286-52f7-a895-e607be6d1769"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "9fb13d37-daa5-4949-9388-d659228abf2c",
+          "amount": 0.19,
+          "unit": "KG",
+          "lifespan": 15,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "65657d64-b71d-4d66-9dbc-16c68af82050",
+      "c55132d9-697e-5b62-a687-d8dffa6a9c31"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "e40c25e0-bba3-49af-afba-f39f02e14c14",
+          "amount": 0.0241,
+          "unit": "M3",
+          "lifespan": 50,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "65657d64-b71d-4d66-9dbc-16c68af82050",
+      "742994ab-669c-532d-95c3-935174e5b867"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "628941c9-3ff6-41bd-a000-ff40e18091ca",
+          "amount": 0.045,
+          "unit": "M3",
+          "lifespan": 50,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "65657d64-b71d-4d66-9dbc-16c68af82050",
+      "d46da4f1-8ceb-5c1e-9368-958bf9ad844f"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "74bcf269-a88d-4f71-b9f0-48830db4f33d",
+          "amount": 0.1,
+          "unit": "KG",
+          "lifespan": 50,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "65657d64-b71d-4d66-9dbc-16c68af82050",
+      "5eda9557-f3c9-53df-a789-fa7814f516e1"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "013500c7-6ab3-48c8-b5f7-b53412d0760b",
+          "amount": 8.0,
+          "unit": "KG",
+          "lifespan": 100,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "65657d64-b71d-4d66-9dbc-16c68af82050",
+      "c496d531-3138-505a-b701-65081993a830"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "13e4bd9e-1794-4e49-b055-3450225b5e3f",
+          "amount": 0.861,
+          "unit": "M",
+          "lifespan": 60,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "f7db75b1-81e0-4dbe-8525-d89a115b817a",
+      "8099069c-4ec0-5bd6-bcf0-cb8c27bbe42f"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "5504e576-452d-478b-bd72-b32441b73892",
+          "amount": 2.87,
+          "unit": "M",
+          "lifespan": 50,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "f7db75b1-81e0-4dbe-8525-d89a115b817a",
+      "c0614968-6549-5971-b267-0a35252f0c44"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "efc5fd9c-e662-451e-9259-28620f0bc02e",
+          "amount": 0.828,
+          "unit": "M",
+          "lifespan": 60,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "f7db75b1-81e0-4dbe-8525-d89a115b817a",
+      "70aeeaa6-1d88-5037-bf18-a1c5db1db40b"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "f545d4ca-6a7f-4862-968d-1a7b9b599f5e",
+          "amount": 2.76,
+          "unit": "M",
+          "lifespan": 50,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "f7db75b1-81e0-4dbe-8525-d89a115b817a",
+      "603ff4d5-04e4-52bf-bb91-a9d0411be633"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "d5ebd89a-b6aa-405d-8ca7-3596c7a81f7c",
+          "amount": 5.775,
+          "unit": "M",
+          "lifespan": 50,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "f7db75b1-81e0-4dbe-8525-d89a115b817a",
+      "12fd2daa-3f6d-5070-9ea6-e038acf97450"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "6b45c4f0-48e2-4cdb-b1db-b046b0baf55d",
+          "amount": 1.0,
+          "unit": "M2",
+          "lifespan": 25,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "ba600efd-d05f-420d-b93e-0145b21753d5",
+      "63bf4ff8-6ea1-52d2-b412-1c234be52a90"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "0c218b0f-170e-4376-a89c-fef724899779",
+          "amount": 1.0,
+          "unit": "M2",
+          "lifespan": 25,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "34d92aee-dfc8-4aba-9918-76faf6095543",
+      "63bf4ff8-6ea1-52d2-b412-1c234be52a90"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "e49eb714-28e7-4aa0-b3cd-8ce0d653127c",
+          "amount": 33.0,
+          "unit": "KG",
+          "lifespan": 50,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "394c0299-5d3f-4213-a50c-5d636787d1fd",
+      "067d7059-1571-586c-9bf7-a72bbfb48671"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "f64af989-70ce-42a3-9a93-e65509febc2f",
+          "amount": 10.0,
+          "unit": "KG",
+          "lifespan": 50,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "394c0299-5d3f-4213-a50c-5d636787d1fd",
+      "dedfe00f-4dec-5606-8602-4f6ec6e21e65"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "33c3a865-3a45-4f63-8169-bdbfbeb7ed2c",
+          "amount": 0.3575,
+          "unit": "KG",
+          "lifespan": 50,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "394c0299-5d3f-4213-a50c-5d636787d1fd",
+      "feeb3b0a-b190-5285-a8d1-153d24e22974"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "17e19880-2d75-49bc-a9b1-1501e10e536f",
+          "amount": 1.0,
+          "unit": "KG",
+          "lifespan": 50,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "394c0299-5d3f-4213-a50c-5d636787d1fd",
+      "5eda9557-f3c9-53df-a789-fa7814f516e1"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "8f5910ab-efa3-4341-8af3-d1fbe0caa60b",
+          "amount": 11.16,
+          "unit": "KG",
+          "lifespan": 40,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "d48a1c21-4a28-41d9-ad51-1c1af05a123b",
+      "067d7059-1571-586c-9bf7-a72bbfb48671"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "6cee2fdd-d5d5-4b3c-a537-f68fc7302c14",
+          "amount": 10.0,
+          "unit": "KG",
+          "lifespan": 40,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "d48a1c21-4a28-41d9-ad51-1c1af05a123b",
+      "dedfe00f-4dec-5606-8602-4f6ec6e21e65"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "56dcd471-7866-43c1-a602-a582ef4ae01e",
+          "amount": 0.1443,
+          "unit": "KG",
+          "lifespan": 40,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "d48a1c21-4a28-41d9-ad51-1c1af05a123b",
+      "feeb3b0a-b190-5285-a8d1-153d24e22974"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "913f6489-40cc-4d41-8c56-ca628a8e72fe",
+          "amount": 1.0,
+          "unit": "KG",
+          "lifespan": 40,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "d48a1c21-4a28-41d9-ad51-1c1af05a123b",
+      "5eda9557-f3c9-53df-a789-fa7814f516e1"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "ceebf4b6-a80a-4cad-981d-65d1764048b0",
+          "amount": 1.11,
+          "unit": "M2",
+          "lifespan": 40,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "d48a1c21-4a28-41d9-ad51-1c1af05a123b",
+      "2633e48e-1e63-5765-aba6-aa6b6b683de0"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "d4d979f7-7585-47da-9735-4509450d9c25",
+          "amount": 1.0,
+          "unit": "Pcs",
+          "lifespan": 30,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "6598ba05-7e45-4eba-8d4d-7d74af2399f9",
+      "bf3aa6de-2e00-5ebc-9eb9-7f3d9a9db894"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "d0ebe352-0a56-4f77-a738-a4b15bff8dab",
+          "amount": 1.0,
+          "unit": "Pcs",
+          "lifespan": 40,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "9c77e4bd-2dc1-45fe-975a-0660312e87df",
+      "2f477250-374e-5154-a7dd-4efb618c1544"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "b1435576-ece8-4936-b599-9c8cf16c95f6",
+          "amount": 1.25855,
+          "unit": "KG",
+          "lifespan": 80,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "f7b0aaa2-7f79-4229-b29f-21af4d451cc3",
+      "6b327cc9-655c-5660-91c6-ecd817a252ee"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "81bd55b6-3dbc-4381-b55a-494da190790a",
+          "amount": 1.0,
+          "unit": "M2",
+          "lifespan": 40,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "1b795991-0dde-4853-9415-fa9bd1a922d5",
+      "e58f3e85-0f80-512a-ad6a-b85d48367902"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "d449cfe5-8771-4b13-93a7-19dbb29eb429",
+          "amount": 43.0,
+          "unit": "KG",
+          "lifespan": 25,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "a4bbdefc-f84f-4f58-9a04-9c3f7256977c",
+      "ba649758-7a6a-5cd3-9740-43d35b71153a"
+    ]
+  }
+]

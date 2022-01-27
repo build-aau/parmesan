@@ -1,0 +1,11 @@
+[
+  {
+    "Node": {
+      "DGNBOperationReference": {
+        "id": "ec81d965-ea79-479e-836a-dd6c84b8ae63",
+        "heat_supplement": 0.0,
+        "electricity_supplement": 0.0
+      }
+    }
+  }
+]
